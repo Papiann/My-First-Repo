@@ -4,4 +4,4 @@ NPM     : 2106751581
 
 Kelas   : E
 
-Hobi    : Ngoding
+Hobi    : Ngoding, Main Bola
